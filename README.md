@@ -1,0 +1,2 @@
+# smart-asistant
+LangChain,SmartAsistant
